@@ -35,15 +35,13 @@ Translate insights into actionable business recommendations
 
 **🛠️ Tools & Technologies**
 
-Tableau – Interactive dashboards & visual analytics
-
-Excel / CSV – Data preprocessing
-
 Kaggle Dataset – Walmart customer transactions
 
-Data Modeling & BI concepts
+Excel & Python – For data cleaning and data preprocessing
 
-**📊 Dashboard Features**
+Tableau – Interactive dashboards & visual analytics
+
+**Dashboard Features**
 
 Dynamic filters for gender, category, city, and age groups
 
@@ -121,9 +119,3 @@ Exploratory analysis of large datasets
 
 **Source:** Kaggle – (https://www.kaggle.com/datasets/logiccraftbyhimanshi/walmart-customer-purchase-behavior-dataset))
 
-You can add your 5–10 minute video link here for the Daxwell submission:
-
-
-Email: maddelapriyadarshini@gmail.com
-
-LinkedIn: (Add your link)
