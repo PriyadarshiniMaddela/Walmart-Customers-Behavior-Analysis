@@ -3,6 +3,7 @@
 **Overview:** This project analyzes Walmart customer purchasing behavior using a Kaggle dataset, completed as part of the Tableau Iron Viz Challenge. The goal was to uncover meaningful trends in customer demographics, product preferences, and seasonal sales patterns while demonstrating strong skills in Business Intelligence, Data Analysis, and Visualization.
 
 Using Tableau, I developed an interactive dashboard highlighting key consumer insights and helping identify opportunities for data-driven retail strategies.
+
 **🚀 Key Insights**
 
 ✔ $12.77M total sales from 50,000+ customers
