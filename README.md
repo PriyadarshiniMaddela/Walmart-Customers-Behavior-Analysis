@@ -1,6 +1,7 @@
 # Walmart-Customers-Behavior-Analysis
+
 📊 Walmart Customers Purchase Behavior Analysis
-**Tableau Iron Viz Challenge – Business Intelligence Project
+
 🛒 Overview**
 
 This project analyzes Walmart customer purchasing behavior using a Kaggle dataset, completed as part of the Tableau Iron Viz Challenge. The goal was to uncover meaningful trends in customer demographics, product preferences, and seasonal sales patterns while demonstrating strong skills in Business Intelligence, Data Analysis, and Visualization.
