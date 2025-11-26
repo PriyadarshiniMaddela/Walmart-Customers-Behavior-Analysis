@@ -9,6 +9,7 @@ Using Tableau, I developed an interactive dashboard highlighting key consumer in
 **🚀 Key Insights**
 
 ✔ $12.77M total sales from 50,000+ customers
+
 ✔ Gender-based product preferences:
 
 Electronics dominate among male customers
@@ -16,8 +17,11 @@ Electronics dominate among male customers
 Beauty products lead among female customers
 
 ✔ Seasonal sales spikes in August & December (holiday shopping trends)
+
 ✔ Age group 25–44 shows highest engagement → ideal for loyalty targeting
+
 ✔ Top performing cities: Houston, Dallas, Austin
+
 ✔ Strong contribution from repeat customers, indicating loyalty potential
 
 **🎯 Project Objectives**
