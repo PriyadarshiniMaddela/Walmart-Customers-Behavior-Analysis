@@ -91,31 +91,10 @@ Prioritize high-engagement age groups (25–44) to increase repeat purchases.
 Focus marketing and inventory efforts on Houston, Dallas, and Austin.
 
 **🧠 Skills Demonstrated**
-Business Intelligence
+**Data Analysis:** Data cleaning & preparation, Pattern recognition, Exploratory analysis of large datasets
+**Business Intelligence:** Dashboard design, KPI tracking, Data storytelling, User-centric visual layouts
+**Business Analysis:** Customer segmentation, Identifying behavioral trends, Recommending actionable business strategies
 
-Dashboard design
-
-KPI tracking
-
-Data storytelling
-
-User-centric visual layouts
-
-Business Analysis
-
-Customer segmentation
-
-Identifying behavioral trends
-
-Recommending actionable business strategies
-
-Data Analysis
-
-Data cleaning & preparation
-
-Pattern recognition
-
-Exploratory analysis of large datasets
 
 **📎 Dataset**
 
