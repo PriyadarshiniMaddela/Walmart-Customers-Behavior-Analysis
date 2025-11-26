@@ -18,7 +18,7 @@ Using Tableau, I developed an interactive dashboard highlighting key consumer in
 
 ✔ Strong contribution from repeat customers, indicating loyalty potential
 
-_Key Finding: _Electronics dominate among male customers and beauty products lead among female customers
+**Key Findings:** Electronics dominate among male customers and beauty products lead among female customers
 
 
 **🎯 Project Objectives**
